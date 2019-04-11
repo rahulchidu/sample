@@ -1,5 +1,5 @@
 <html>
-<head></head>
+<head>connection of mysql</head>
 <body>
 
 <form action="phpmysqlpract.php" method="post">
