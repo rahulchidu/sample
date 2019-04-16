@@ -1,6 +1,6 @@
 <html>
 <head>connection of mysql</head>
-<body>
+<body>yu have been hacked
 
 <form action="phpmysqlpract.php" method="post">
 Name
